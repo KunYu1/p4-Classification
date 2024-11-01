@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "~/.conan/data/**",
+                "/root/bf-sde-9.7.1/install/include/**",
+                "/root/bf-sde-9.7.1/pkgsrc/bf-drivers/src/**",
+                "/root/cia/samuel/iotIDS/p4/cpp/tensorflow_c/2.3.0/include"
+            ],
+            "defines": [
+                "SDE_INSTALL=\"/root/bf-sde-9.7.1/install\""
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,7 @@
+.history
+p4/p4src/p4c-out
+p4/cpp/cpp_example_forStudent/p4rt_exe
+p4/cpp/weight/
+*.out
+p4/p4src/appClassification.pb.bin
+p4/p4src/pipeline_cfg.pb.txt

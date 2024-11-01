@@ -1,0 +1,28 @@
+              precision    recall  f1-score   support
+
+      Amazon       0.99      0.96      0.98       427
+  CyberGhost       0.99      0.99      0.99       224
+      Deezer       0.97      0.94      0.95       340
+     Discord       0.91      0.93      0.92       134
+     Dropbox       0.99      0.98      0.99       106
+        Epic       0.99      0.98      0.99       391
+    Facebook       0.97      0.97      0.97        88
+     Hotspot       0.92      1.00      0.96       142
+      iTunes       0.97      0.95      0.96       149
+   Microsoft       0.92      0.87      0.89       141
+   ProtonVPN       1.00      1.00      1.00       105
+       Skype       0.94      0.92      0.93       185
+       Slack       1.00      0.99      0.99       636
+  SoulseekQt       1.00      1.00      1.00       151
+     Spotify       0.95      0.96      0.96       636
+       Steam       0.90      0.94      0.92       106
+    Telegram       0.99      1.00      0.99       136
+      TuneIn       1.00      1.00      1.00       368
+  TunnelBear       1.00      1.00      1.00      2978
+   Ultrasurf       0.99      0.99      0.99      2383
+    WhatsApp       1.00      1.00      1.00       126
+        Zoom       0.96      1.00      0.98       157
+
+    accuracy                           0.99     10109
+   macro avg       0.97      0.97      0.97     10109
+weighted avg       0.99      0.99      0.99     10109
